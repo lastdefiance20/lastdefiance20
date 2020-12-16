@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+## My github status 🤔
+
+![lastdefiance20's github stats](https://github-readme-stats.vercel.app/api?username=lastdefiance20&show_icons=true)
+
+## Algorithm Problem Solving 💻
+
+* #### BOJ (Baekjoon Online Judge)
+  * handle: [lastdefiance20](http://icpc.me/lastdefiance20)
+  * solved.ac: [lastdefiance20](https://solved.ac/profile/lastdefiance20)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lastdefiance20)](https://solved.ac/lastdefiance20)
+
+* #### Codeforces
+  * handle : [lastdefiance20](https://codeforces.com/profile/lastdefiance20)
+  ![](https://run.kaist.ac.kr/badges/codeforces/lastdefiance20.svg)
+
+
 <!--
 **lastdefiance20/lastdefiance20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
