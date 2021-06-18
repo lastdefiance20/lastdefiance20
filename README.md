@@ -4,6 +4,17 @@
 
 ![lastdefiance20's github stats](https://github-readme-stats.vercel.app/api?username=lastdefiance20&show_icons=true)
 
+## I’m currently working on, interested on 🌱
+
+* #### Learning Deep Learning (Vision)
+  * pytorch, tensorflow, etc
+
+* #### Mysis Lab intern (2020-06-18 ~ )
+  * https://sites.google.com/view/misysssu/members?authuser=0
+
+* #### Learning Backend & Frontend to making website
+  * (working with Django, Docker, Html, Css, etc)
+
 ## Algorithm Problem Solving 💻
 
 * #### BOJ (Baekjoon Online Judge)
