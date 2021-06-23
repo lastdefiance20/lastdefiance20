@@ -13,7 +13,7 @@
   * https://sites.google.com/view/misysssu/members?authuser=0
 
 * #### Learning Backend & Frontend to making website
-  * (working with Django - React with Docker, Azure)
+  * (working with Django & React with Docker, Azure)
 
 ## Algorithm Problem Solving 💻
 
