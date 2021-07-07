@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-## My github status 🤔
-
-![lastdefiance20's github stats](https://github-readme-stats.vercel.app/api?username=lastdefiance20&show_icons=true)
-
 ## I’m currently working on, interested on 🌱
 
 * #### Learning Deep Learning (Vision)
@@ -13,7 +9,7 @@
   * https://sites.google.com/view/misysssu/members?authuser=0
 
 * #### Learning Backend & Frontend to making website
-  * (working with Django & React with Docker, Azure)
+  * (working with Django & React with AWS)
 
 ## Algorithm Problem Solving 💻
 
@@ -25,8 +21,12 @@
 
 * #### Codeforces
   * handle : [lastdefiance20](https://codeforces.com/profile/lastdefiance20)
-  ![](https://run.kaist.ac.kr/badges/codeforces/lastdefiance20.svg)
 
+  ![](https://run.kaist.ac.kr/badges/codeforces/lastdefiance20.svg)
+  
+## My github status 🤔
+
+![lastdefiance20's github stats](https://github-readme-stats.vercel.app/api?username=lastdefiance20&show_icons=true)
 
 <!--
 **lastdefiance20/lastdefiance20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
