@@ -3,9 +3,9 @@
 ## I’m currently working on, interested on 🌱
 
 * #### Learning Deep Learning (Vision)
-  * pytorch, tensorflow, etc
+  * pytorch, tensorflow, sklearn, etc
 
-* #### Mysis Lab intern (2020-06-18 ~ )
+* #### Misys Lab intern (2021-06-18 ~ )
   * https://sites.google.com/view/misysssu/members?authuser=0
 
 * #### Learning Backend & Frontend to making website
