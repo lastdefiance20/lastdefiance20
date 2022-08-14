@@ -2,15 +2,13 @@
 
 ## I’m currently working on, interested on 🌱
 
-* #### Learning Deep Learning (Vision)
+* #### Learning Deep Learning & Machine Learning
   * pytorch, tensorflow, sklearn, etc
+  * [AI Competition Repository](https://github.com/lastdefiance20/ML_Competition)
 
-* #### Misys Lab intern (2021-06-18 ~ )
+* #### Misys Lab intern (2021-06-18 ~ 2022-08)
   * https://sites.google.com/view/misysssu/members?authuser=0
-
-* #### Learning Backend & Frontend to making website
-  * (working with Django & React with AWS)
-
+  
 ## Algorithm Problem Solving 💻
 
 * #### BOJ (Baekjoon Online Judge)
