@@ -1,4 +1,6 @@
 ### Hi there 👋
+* 현재 산업기능요원 보충역 준비중입니다.
+  * [원티드 이력서](https://github.com/lastdefiance20/lastdefiance20/blob/main/CV-JaeyoonJung.pdf)
 
 ## I’m currently working on, interested on 🌱
 
