@@ -8,6 +8,7 @@
   * https://sites.google.com/view/misysssu/members?authuser=0
 
 * #### 산업기능요원 보충역 준비중
+  * ### [My Portfolio](https://harsh-falcon-8da.notion.site/ML-DL-Engineer-d9de989db1fa4bb2998280d1dc381622)
 
 ## 🏆 AI Challenge
 🥇 **`[1st Place] in 2022 Samsung AI Challenge (3D Metrology)`**
