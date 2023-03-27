@@ -15,8 +15,12 @@
 > Task: make an AI that produce depth map from SEM image\
 > [repo link](https://github.com/lastdefiance20/2022-Samsung-AI-Challenge-3D-Metrology-1st-place-Solution) | [soongsil univ news](https://scatch.ssu.ac.kr/%eb%89%b4%ec%8a%a4%ec%84%bc%ed%84%b0/%ec%a3%bc%ec%9a%94%eb%89%b4%ec%8a%a4/page/4/?slug=ai%EC%9C%B5%ED%95%A9%ED%95%99%EB%B6%80-%EC%A0%95%EC%9E%AC%EC%9C%A4-%ED%95%99%EC%83%9D-2022-%EC%82%BC%EC%84%B1-ai%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81-%EC%88%98%EC%83%81&f&keyword)
 
-🥈 **`[2nd Place] in 2022 LG Radar Performance Prediction`**
-> Task: predict radar performance using tabular data from the LG factory\
+🥇 **`[1st Place] in 2022 LG DISPLAY Product Quality Classification`**
+> Task: classify the product quality using tabular data from the LG display factory\
+> [repo link](https://github.com/lastdefiance20/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) |
+
+🥈 **`[2nd Place] in 2022 LG INNOTEK Radar Performance Prediction`**
+> Task: predict radar performance using tabular data from the LG innotek factory\
 > [repo link](https://github.com/lastdefiance20/ML_Competition/tree/main/Dacon/Radar%20Performance%20Prediction) | [youtube link (interview)](https://www.youtube.com/watch?v=6CZxrbDIrOI)
 
 🎖️ `[4th Place] in Monthly Dacon Computer Vision Anomaly Detection`
