@@ -17,7 +17,7 @@
 
 🥇 **`[1st Place] in 2023 LG DISPLAY Product Quality Classification`**
 > Task: classify the product quality using tabular data from the LG display factory\
-> [repo link](https://github.com/lastdefiance20/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) |
+> [repo link](https://github.com/lastdefiance20/2023-LG-DISPLAY-Quality-Classification-1st-place-Solution) | [hankyung news](https://www.hankyung.com/it/article/202304071562g)
 
 🥈 **`[2nd Place] in 2022 LG INNOTEK Radar Performance Prediction`**
 > Task: predict radar performance using tabular data from the LG innotek factory\
@@ -27,13 +27,13 @@
 > Task: detect the anomaly samples and classify it\
 > [code link](https://dacon.io/competitions/official/235894/codeshare/4946?page=1&dtype=recent)
 
-🎖️ `[6th Place] in 2022 SWUNIV AI Challenge`
-> Task: develop OCR algorithm to recognize hangul text from the image\
-> [repo link](https://github.com/lastdefiance20/Korean-Sign-OCR) | [soongsil univ news](https://scatch.ssu.ac.kr/%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0/%EC%A3%BC%EC%9A%94%EB%89%B4%EC%8A%A4/page/2/?slug=%EB%B3%B8%EA%B5%90-%ED%95%99%EC%83%9D%EB%93%A4-sw%EC%9D%B8%EC%9E%AC%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%EC%9A%B0%EC%88%98%EC%9E%91%ED%92%88-%EC%9A%B0%EC%88%98%EC%83%81%C2%B7%EA%B3%B5%EB%8F%99ai)
-
 🎖️ `[6th Place] in Monthly Dacon 3D MNIST Classification`
 > Task: 3D MNIST Classification\
 > [repo link](https://github.com/lastdefiance20/ML_Competition/tree/main/Dacon/3D%20MNIST%20Classification)
+
+🎖️ `[7th Place] in 2022 SWUNIV AI Challenge`
+> Task: develop OCR algorithm to recognize hangul text from the image\
+> [repo link](https://github.com/lastdefiance20/Korean-Sign-OCR) | [soongsil univ news](https://scatch.ssu.ac.kr/%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0/%EC%A3%BC%EC%9A%94%EB%89%B4%EC%8A%A4/page/2/?slug=%EB%B3%B8%EA%B5%90-%ED%95%99%EC%83%9D%EB%93%A4-sw%EC%9D%B8%EC%9E%AC%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%EC%9A%B0%EC%88%98%EC%9E%91%ED%92%88-%EC%9A%B0%EC%88%98%EC%83%81%C2%B7%EA%B3%B5%EB%8F%99ai)
 
 🎖️ `[7th Place] in 2022 Dankook Univ AI Challenge`
 > Task: predict bike sharing demand using tabular data\
