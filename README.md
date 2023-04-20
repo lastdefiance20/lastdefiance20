@@ -1,14 +1,14 @@
-## I’m currently working on, interested on 🌱
-
-* #### Learning Deep Learning & Machine Learning
+# Hi, I'm Jaeyoon Jung
+* **Learning Deep Learning & Machine Learning**
   * pytorch, tensorflow, sklearn, etc
-  * [AI Competition Repository](https://github.com/lastdefiance20/ML_Competition)
+* **AI분야 산업기능요원 보충역 재직중**
+  * [My Portfolio](https://harsh-falcon-8da.notion.site/ML-DL-Engineer-d9de989db1fa4bb2998280d1dc381622)
 
-* #### Misys Lab intern (2021-06-18 ~ 2022-08)
+## :office: Career
+* Misys Lab intern (2021-06-18 ~ 2022-08)
   * https://sites.google.com/view/misysssu/members?authuser=0
-
-* #### 산업기능요원 보충역 준비중
-  * ### [My Portfolio](https://harsh-falcon-8da.notion.site/ML-DL-Engineer-d9de989db1fa4bb2998280d1dc381622)
+* :briefcase: **Maum AI Inc (Mindslab)	AI Scientist (2023-04-26 ~ )**
+  * https://mindslab-ai.github.io/
 
 ## 🏆 AI Challenge
 🥇 **`[1st Place] in 2022 Samsung AI Challenge (3D Metrology)`**
