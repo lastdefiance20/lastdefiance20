@@ -8,8 +8,11 @@
 * Misys Lab intern (2021-06-18 ~ 2022-08)
   * https://sites.google.com/view/misysssu/members?authuser=0
 * :briefcase: **Maum AI Inc (Mindslab)	AI Scientist (2023-04-26 ~ )**
-  * https://mindslab-ai.github.io/
+  * https://maum-ai.github.io
 
+## 📝 Publications
+* [EnCLAP](https://github.com/jaeyeonkim99/EnCLAP) - ICASSP 2024 (under review)
+ 
 ## 🏆 AI Challenge
 🥇 **`[1st Place] in 2022 Samsung AI Challenge (3D Metrology)`**
 > Task: make an AI that produce depth map from SEM image\
@@ -42,7 +45,6 @@
 `[Reach the final] in 2023 4th Sungkyunkwan Univ Bookathon`
 > Task: write essay with AI (GPT3)\
 > [repo link](https://github.com/lastdefiance20/Bookathon2022_Team_Booker2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1q7X_Fw1Bkv8dWkkWdWXHlP0V0UTAVm9e?usp=sharing)
-
 
 `[Reach the final] in 2022 Military AI Competition`
 > [repo link](https://github.com/lastdefiance20/Building_Change_Segmentation)
