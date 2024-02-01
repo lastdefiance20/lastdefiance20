@@ -11,7 +11,7 @@
   * https://maum-ai.github.io
 
 ## 📝 Publications
-* [EnCLAP](https://github.com/jaeyeonkim99/EnCLAP) - ICASSP 2024 (under review)
+* [EnCLAP](https://github.com/jaeyeonkim99/EnCLAP) - Accepted to ICASSP 2024
  
 ## 🏆 AI Challenge
 🥇 **`[1st Place] in 2022 Samsung AI Challenge (3D Metrology)`**
