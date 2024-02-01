@@ -1,7 +1,7 @@
 # Hi, I'm Jaeyoon Jung
-* **Learning Deep Learning & Machine Learning**
+* Learning Deep Learning & Machine Learning
   * pytorch, tensorflow, sklearn, etc
-* **AI분야 산업기능요원 보충역 재직중**
+* AI분야 산업기능요원 보충역 재직중
   * [My Portfolio](https://harsh-falcon-8da.notion.site/ML-DL-Engineer-d9de989db1fa4bb2998280d1dc381622)
 
 ## :office: Career
@@ -11,7 +11,9 @@
   * https://maum-ai.github.io
 
 ## 📝 Publications
-* [EnCLAP](https://github.com/jaeyeonkim99/EnCLAP) - Accepted to ICASSP 2024
+🙌 **EnCLAP: Combining Neural Audio Codec and Audio-Text Joint Embedding for Automated Audio Captioning**
+> Accepted to ICASSP 2024\
+> [paper](https://arxiv.org/abs/2401.17690) | [code](https://github.com/jaeyeonkim99/EnCLAP)
  
 ## 🏆 AI Challenge
 🥇 **`[1st Place] in 2022 Samsung AI Challenge (3D Metrology)`**
