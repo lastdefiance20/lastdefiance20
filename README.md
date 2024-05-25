@@ -1,13 +1,17 @@
 # Hi, I'm Jaeyoon Jung
-* Learning Deep Learning & Machine Learning
-  * pytorch, tensorflow, sklearn, etc
-* AI분야 산업기능요원 보충역 재직중
-  * [My Portfolio](https://harsh-falcon-8da.notion.site/ML-DL-Engineer-d9de989db1fa4bb2998280d1dc381622)
+As an undergraduate student majoring in Artificial Intelligence, I am interested in diverse research areas, including computer vision, natural language processing, and audio signal processing.\
+My current research interests are several. Large language models that has capability of multimodal inputs and outputs (video, image, text, audio, action), adapting instruction-following capabilities of English-based large language models to mainly Korean and other diverse language, and dehallucinative large language model.
 
 ## :office: Career
 * Misys Lab intern (2021-06-18 ~ 2022-08)
   * https://sites.google.com/view/misysssu/members?authuser=0
 * :briefcase: **Maum AI Inc (Mindslab)	AI Scientist (2023-04-26 ~ )**
+  * Improved the quality of RAG by enhancing the retriever. By training it with a high-quality dataset and selecting the best models, the retriever achieved maximum 68% score improvement(Recall@K) compared to its previous performance.
+  * Optimized STF(Speech-To-Face) model by using ONNX and TensorRT, reducing the 1-second video generation time from 1.6 seconds to 0.7 seconds. This enhancement enables real-time streaming in real-world applications.
+  * Worked on transferring instruction-following capabilities from English to Korean in open-source large language models.
+This work aims to facilitate the development of high-quality Korean language models at a low cost.
+  * Experienced with training large language models(up to 70B), using deepspeed for multi-node training. While each node
+comprises 8 NVIDIA H100 80GB GPUs, four DGX H100 systems interconnected with NVLink are used for train.
   * https://maum-ai.github.io
 
 ## 📝 Publications
